@@ -1,4 +1,3 @@
-```markdown
 # Django Project Setup Instructions
 
 ## 1. Create a Project
@@ -66,4 +65,3 @@ http://127.0.0.1:8000/
 ```
 
 You should be able to see the Django welcome page if everything is set up correctly.
-```
